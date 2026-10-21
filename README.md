@@ -176,7 +176,10 @@ test lists above move when they are answered.
   engine is `reference/order-builder-engine.cjs`, lifted verbatim, and this
   module is its port. The page could take `parsePartNumber` as-is to read
   the quote and layout-plan forms it refuses today.
-- **PFI takeoff app** (`wyattotto/PFI`): `partCode` and the parser in
-  `truth.ts` write and read the `3206U16` form; `parsePartNumber` and
-  `formatPartNumber` cover both. Its unverified 90° and 45° bracket model
-  would be replaced by `shippedHardware`.
+- **PFI takeoff app** (`wyattotto/PFI`): carries a copy of `src/` under
+  `src/lib/rules/` (its README there says how to refresh it). Its quote
+  reads each line's SKU with `parsePartNumber`, describes it with
+  `salesOrderDescription` and counts hardware with `shippedHardware`; its
+  truth parser falls back to `parsePartNumber` for the quotes' and the
+  Rule Sheet's written forms. Its own SKUs still use the `3206U16` form
+  until the written form is settled.
