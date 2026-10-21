@@ -1,0 +1,3969 @@
+{
+ "parts": {
+  "241Q8": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 24,
+    "depth": 8
+   },
+   "layers": [
+    "8t"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 1,
+    "screws": 1,
+    "tapcons": 5,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "24s"
+   ],
+   "blanks": [
+    "cutdown:24:8t"
+   ],
+   "notes": []
+  },
+  "242Q8": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 24,
+    "depth": 8
+   },
+   "layers": [
+    "8t"
+   ],
+   "hw": {
+    "bolts": 2,
+    "nuts": 2,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 6,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "24s",
+    "24s"
+   ],
+   "blanks": [
+    "cutdown:24:8t",
+    "cutdown:24:8t"
+   ],
+   "notes": []
+  },
+  "243Q8": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 24,
+    "depth": 8
+   },
+   "layers": [
+    "8t"
+   ],
+   "hw": {
+    "bolts": 4,
+    "nuts": 4,
+    "llb": 3,
+    "screws": 3,
+    "tapcons": 7,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "24s",
+    "24s",
+    "24s"
+   ],
+   "blanks": [
+    "cutdown:24:8t",
+    "cutdown:24:8t",
+    "cutdown:24:8t"
+   ],
+   "notes": []
+  },
+  "24SQ8": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 24,
+    "depth": 8
+   },
+   "layers": [
+    "8t"
+   ],
+   "hw": {
+    "bolts": 8,
+    "nuts": 8,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 4,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "24s",
+    "24s",
+    "24s",
+    "24s"
+   ],
+   "blanks": [
+    "cutdown:24:8t",
+    "cutdown:24:8t",
+    "cutdown:24:8t",
+    "cutdown:24:8t"
+   ],
+   "notes": []
+  },
+  "441Q8": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 44,
+    "depth": 8
+   },
+   "layers": [
+    "8t"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 6,
+    "l4": 2,
+    "s14": 2
+   },
+   "inPlant": 2,
+   "ears": 0,
+   "runs": [
+    "44s"
+   ],
+   "blanks": [
+    "36:36:8t",
+    "addon:8:8t"
+   ],
+   "notes": [
+    "44\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "442Q8": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 44,
+    "depth": 8
+   },
+   "layers": [
+    "8t"
+   ],
+   "hw": {
+    "bolts": 2,
+    "nuts": 2,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 8,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 4,
+   "ears": 0,
+   "runs": [
+    "44s",
+    "44s"
+   ],
+   "blanks": [
+    "36:36:8t",
+    "36:36:8t",
+    "addon:8:8t",
+    "addon:8:8t"
+   ],
+   "notes": [
+    "44\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "44\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "443Q8": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 44,
+    "depth": 8
+   },
+   "layers": [
+    "8t"
+   ],
+   "hw": {
+    "bolts": 4,
+    "nuts": 4,
+    "llb": 6,
+    "screws": 6,
+    "tapcons": 10,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 6,
+   "ears": 0,
+   "runs": [
+    "44s",
+    "44s",
+    "44s"
+   ],
+   "blanks": [
+    "36:36:8t",
+    "36:36:8t",
+    "36:36:8t",
+    "addon:8:8t",
+    "addon:8:8t",
+    "addon:8:8t"
+   ],
+   "notes": [
+    "44\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "44\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "44\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "44SQ8": {
+   "error": "44\" isn't a multiple of 6\". A closed square bolts at every corner, so its sides must be whole cells."
+  },
+  "241Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 24,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 1,
+    "screws": 1,
+    "tapcons": 7,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "24s"
+   ],
+   "blanks": [
+    "cutdown:24:12t"
+   ],
+   "notes": []
+  },
+  "242Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 24,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 3,
+    "nuts": 3,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 8,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "24s",
+    "24s"
+   ],
+   "blanks": [
+    "cutdown:24:12t",
+    "cutdown:24:12t"
+   ],
+   "notes": []
+  },
+  "243Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 24,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 6,
+    "nuts": 6,
+    "llb": 3,
+    "screws": 3,
+    "tapcons": 9,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "24s",
+    "24s",
+    "24s"
+   ],
+   "blanks": [
+    "cutdown:24:12t",
+    "cutdown:24:12t",
+    "cutdown:24:12t"
+   ],
+   "notes": []
+  },
+  "24SQ12": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 24,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 12,
+    "nuts": 12,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 4,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "24s",
+    "24s",
+    "24s",
+    "24s"
+   ],
+   "blanks": [
+    "cutdown:24:12t",
+    "cutdown:24:12t",
+    "cutdown:24:12t",
+    "cutdown:24:12t"
+   ],
+   "notes": []
+  },
+  "441Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 44,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 7,
+    "l4": 2,
+    "s14": 2
+   },
+   "inPlant": 3,
+   "ears": 0,
+   "runs": [
+    "44s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "addon:8:12t"
+   ],
+   "notes": [
+    "44\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "442Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 44,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 3,
+    "nuts": 3,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 8,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 6,
+   "ears": 0,
+   "runs": [
+    "44s",
+    "44s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "addon:8:12t",
+    "addon:8:12t"
+   ],
+   "notes": [
+    "44\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "44\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "443Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 44,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 6,
+    "nuts": 6,
+    "llb": 6,
+    "screws": 6,
+    "tapcons": 10,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 9,
+   "ears": 0,
+   "runs": [
+    "44s",
+    "44s",
+    "44s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "addon:8:12t",
+    "addon:8:12t",
+    "addon:8:12t"
+   ],
+   "notes": [
+    "44\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "44\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "44\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "44SQ12": {
+   "error": "44\" isn't a multiple of 6\". A closed square bolts at every corner, so its sides must be whole cells."
+  },
+  "281Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 28,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 1,
+    "screws": 1,
+    "tapcons": 6,
+    "l4": 2,
+    "s14": 2
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "28s"
+   ],
+   "blanks": [
+    "cutdown:28:12t"
+   ],
+   "notes": [
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "282Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 28,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 3,
+    "nuts": 3,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 6,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "28s",
+    "28s"
+   ],
+   "blanks": [
+    "cutdown:28:12t",
+    "cutdown:28:12t"
+   ],
+   "notes": [
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "283Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 28,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 6,
+    "nuts": 6,
+    "llb": 3,
+    "screws": 3,
+    "tapcons": 7,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "28s",
+    "28s",
+    "28s"
+   ],
+   "blanks": [
+    "cutdown:28:12t",
+    "cutdown:28:12t",
+    "cutdown:28:12t"
+   ],
+   "notes": [
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "28SQ12": {
+   "error": "28\" isn't a multiple of 6\". A closed square bolts at every corner, so its sides must be whole cells."
+  },
+  "561Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 56,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 3,
+    "screws": 3,
+    "tapcons": 8,
+    "l4": 2,
+    "s14": 2
+   },
+   "inPlant": 3,
+   "ears": 0,
+   "runs": [
+    "56s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "addon:20:12t"
+   ],
+   "notes": [
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "562Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 56,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 3,
+    "nuts": 3,
+    "llb": 6,
+    "screws": 6,
+    "tapcons": 10,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 6,
+   "ears": 0,
+   "runs": [
+    "56s",
+    "56s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "addon:20:12t",
+    "addon:20:12t"
+   ],
+   "notes": [
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "563Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 56,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 6,
+    "nuts": 6,
+    "llb": 9,
+    "screws": 9,
+    "tapcons": 13,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 9,
+   "ears": 0,
+   "runs": [
+    "56s",
+    "56s",
+    "56s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "addon:20:12t",
+    "addon:20:12t",
+    "addon:20:12t"
+   ],
+   "notes": [
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "56SQ12": {
+   "error": "56\" isn't a multiple of 6\". A closed square bolts at every corner, so its sides must be whole cells."
+  },
+  "281Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 28,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 9,
+    "l4": 3,
+    "s14": 3
+   },
+   "inPlant": 2,
+   "ears": 0,
+   "runs": [
+    "28s"
+   ],
+   "blanks": [
+    "cutdown:28:12t",
+    "cutdown:28:4b"
+   ],
+   "notes": [
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "282Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 28,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 4,
+    "nuts": 4,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 10,
+    "l4": 6,
+    "s14": 6
+   },
+   "inPlant": 4,
+   "ears": 0,
+   "runs": [
+    "28s",
+    "28s"
+   ],
+   "blanks": [
+    "cutdown:28:12t",
+    "cutdown:28:12t",
+    "cutdown:28:4b",
+    "cutdown:28:4b"
+   ],
+   "notes": [
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "283Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 28,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 8,
+    "nuts": 8,
+    "llb": 6,
+    "screws": 6,
+    "tapcons": 12,
+    "l4": 6,
+    "s14": 6
+   },
+   "inPlant": 6,
+   "ears": 0,
+   "runs": [
+    "28s",
+    "28s",
+    "28s"
+   ],
+   "blanks": [
+    "cutdown:28:12t",
+    "cutdown:28:12t",
+    "cutdown:28:12t",
+    "cutdown:28:4b",
+    "cutdown:28:4b",
+    "cutdown:28:4b"
+   ],
+   "notes": [
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "28SQ16": {
+   "error": "28\" isn't a multiple of 6\". A closed square bolts at every corner, so its sides must be whole cells."
+  },
+  "561Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 56,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 3,
+    "screws": 3,
+    "tapcons": 10,
+    "l4": 3,
+    "s14": 3
+   },
+   "inPlant": 8,
+   "ears": 0,
+   "runs": [
+    "56s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:4b",
+    "addon:20:12t",
+    "addon:20:4b"
+   ],
+   "notes": [
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "562Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 56,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 4,
+    "nuts": 4,
+    "llb": 6,
+    "screws": 6,
+    "tapcons": 12,
+    "l4": 6,
+    "s14": 6
+   },
+   "inPlant": 16,
+   "ears": 0,
+   "runs": [
+    "56s",
+    "56s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:4b",
+    "36:36:4b",
+    "addon:20:12t",
+    "addon:20:12t",
+    "addon:20:4b",
+    "addon:20:4b"
+   ],
+   "notes": [
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "563Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 56,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 8,
+    "nuts": 8,
+    "llb": 9,
+    "screws": 9,
+    "tapcons": 15,
+    "l4": 6,
+    "s14": 6
+   },
+   "inPlant": 24,
+   "ears": 0,
+   "runs": [
+    "56s",
+    "56s",
+    "56s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b",
+    "addon:20:12t",
+    "addon:20:12t",
+    "addon:20:12t",
+    "addon:20:4b",
+    "addon:20:4b",
+    "addon:20:4b"
+   ],
+   "notes": [
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "56SQ16": {
+   "error": "56\" isn't a multiple of 6\". A closed square bolts at every corner, so its sides must be whole cells."
+  },
+  "281Q24": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 28,
+    "depth": 24
+   },
+   "layers": [
+    "12t",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 12,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 2,
+   "ears": 0,
+   "runs": [
+    "28s"
+   ],
+   "blanks": [
+    "cutdown:28:12b",
+    "cutdown:28:12t"
+   ],
+   "notes": [
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "282Q24": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 28,
+    "depth": 24
+   },
+   "layers": [
+    "12t",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 6,
+    "nuts": 6,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 12,
+    "l4": 8,
+    "s14": 8
+   },
+   "inPlant": 4,
+   "ears": 0,
+   "runs": [
+    "28s",
+    "28s"
+   ],
+   "blanks": [
+    "cutdown:28:12b",
+    "cutdown:28:12b",
+    "cutdown:28:12t",
+    "cutdown:28:12t"
+   ],
+   "notes": [
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "283Q24": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 28,
+    "depth": 24
+   },
+   "layers": [
+    "12t",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 12,
+    "nuts": 12,
+    "llb": 6,
+    "screws": 6,
+    "tapcons": 14,
+    "l4": 8,
+    "s14": 8
+   },
+   "inPlant": 6,
+   "ears": 0,
+   "runs": [
+    "28s",
+    "28s",
+    "28s"
+   ],
+   "blanks": [
+    "cutdown:28:12b",
+    "cutdown:28:12b",
+    "cutdown:28:12b",
+    "cutdown:28:12t",
+    "cutdown:28:12t",
+    "cutdown:28:12t"
+   ],
+   "notes": [
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "28\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "28SQ24": {
+   "error": "28\" isn't a multiple of 6\". A closed square bolts at every corner, so its sides must be whole cells."
+  },
+  "561Q24": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 56,
+    "depth": 24
+   },
+   "layers": [
+    "12t",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 3,
+    "screws": 3,
+    "tapcons": 13,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 10,
+   "ears": 0,
+   "runs": [
+    "56s"
+   ],
+   "blanks": [
+    "36:36:12b",
+    "36:36:12t",
+    "addon:20:12b",
+    "addon:20:12t"
+   ],
+   "notes": [
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "562Q24": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 56,
+    "depth": 24
+   },
+   "layers": [
+    "12t",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 6,
+    "nuts": 6,
+    "llb": 6,
+    "screws": 6,
+    "tapcons": 14,
+    "l4": 8,
+    "s14": 8
+   },
+   "inPlant": 20,
+   "ears": 0,
+   "runs": [
+    "56s",
+    "56s"
+   ],
+   "blanks": [
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12t",
+    "36:36:12t",
+    "addon:20:12b",
+    "addon:20:12b",
+    "addon:20:12t",
+    "addon:20:12t"
+   ],
+   "notes": [
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "563Q24": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 56,
+    "depth": 24
+   },
+   "layers": [
+    "12t",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 12,
+    "nuts": 12,
+    "llb": 9,
+    "screws": 9,
+    "tapcons": 17,
+    "l4": 8,
+    "s14": 8
+   },
+   "inPlant": 30,
+   "ears": 0,
+   "runs": [
+    "56s",
+    "56s",
+    "56s"
+   ],
+   "blanks": [
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "addon:20:12b",
+    "addon:20:12b",
+    "addon:20:12b",
+    "addon:20:12t",
+    "addon:20:12t",
+    "addon:20:12t"
+   ],
+   "notes": [
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "56SQ24": {
+   "error": "56\" isn't a multiple of 6\". A closed square bolts at every corner, so its sides must be whole cells."
+  },
+  "361Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 36,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 1,
+    "screws": 1,
+    "tapcons": 7,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "36s"
+   ],
+   "blanks": [
+    "36:36:12t"
+   ],
+   "notes": []
+  },
+  "362Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 36,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 3,
+    "nuts": 3,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 8,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "36s",
+    "36s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t"
+   ],
+   "notes": []
+  },
+  "363Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 36,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 6,
+    "nuts": 6,
+    "llb": 3,
+    "screws": 3,
+    "tapcons": 9,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "36s",
+    "36s",
+    "36s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t"
+   ],
+   "notes": []
+  },
+  "36SQ12": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 36,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 12,
+    "nuts": 12,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 4,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "36s",
+    "36s",
+    "36s",
+    "36s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t"
+   ],
+   "notes": []
+  },
+  "721Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 72,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 5,
+    "screws": 5,
+    "tapcons": 11,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 3,
+   "ears": 1,
+   "runs": [
+    "72s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t"
+   ],
+   "notes": []
+  },
+  "722Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 72,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 3,
+    "nuts": 3,
+    "llb": 10,
+    "screws": 10,
+    "tapcons": 16,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 6,
+   "ears": 2,
+   "runs": [
+    "72s",
+    "72s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t"
+   ],
+   "notes": []
+  },
+  "723Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 72,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 6,
+    "nuts": 6,
+    "llb": 15,
+    "screws": 15,
+    "tapcons": 21,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 9,
+   "ears": 3,
+   "runs": [
+    "72s",
+    "72s",
+    "72s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t"
+   ],
+   "notes": []
+  },
+  "72SQ12": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 72,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 12,
+    "nuts": 12,
+    "llb": 20,
+    "screws": 20,
+    "tapcons": 20,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 12,
+   "ears": 4,
+   "runs": [
+    "72s",
+    "72s",
+    "72s",
+    "72s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t"
+   ],
+   "notes": []
+  },
+  "361Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 36,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 10,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 3,
+   "ears": 0,
+   "runs": [
+    "36s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:4b"
+   ],
+   "notes": []
+  },
+  "362Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 36,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 4,
+    "nuts": 4,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 12,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 6,
+   "ears": 0,
+   "runs": [
+    "36s",
+    "36s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:4b",
+    "36:36:4b"
+   ],
+   "notes": []
+  },
+  "363Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 36,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 8,
+    "nuts": 8,
+    "llb": 6,
+    "screws": 6,
+    "tapcons": 14,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 9,
+   "ears": 0,
+   "runs": [
+    "36s",
+    "36s",
+    "36s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b"
+   ],
+   "notes": []
+  },
+  "36SQ16": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 36,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 16,
+    "nuts": 16,
+    "llb": 8,
+    "screws": 8,
+    "tapcons": 8,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 12,
+   "ears": 0,
+   "runs": [
+    "36s",
+    "36s",
+    "36s",
+    "36s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b"
+   ],
+   "notes": []
+  },
+  "721Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 72,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 5,
+    "screws": 5,
+    "tapcons": 13,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 10,
+   "ears": 2,
+   "runs": [
+    "72s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:4b",
+    "36:36:4b"
+   ],
+   "notes": []
+  },
+  "722Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 72,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 4,
+    "nuts": 4,
+    "llb": 10,
+    "screws": 10,
+    "tapcons": 18,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 20,
+   "ears": 4,
+   "runs": [
+    "72s",
+    "72s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b"
+   ],
+   "notes": []
+  },
+  "723Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 72,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 8,
+    "nuts": 8,
+    "llb": 15,
+    "screws": 15,
+    "tapcons": 23,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 30,
+   "ears": 6,
+   "runs": [
+    "72s",
+    "72s",
+    "72s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b"
+   ],
+   "notes": []
+  },
+  "72SQ16": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 72,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 16,
+    "nuts": 16,
+    "llb": 20,
+    "screws": 20,
+    "tapcons": 20,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 40,
+   "ears": 8,
+   "runs": [
+    "72s",
+    "72s",
+    "72s",
+    "72s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b"
+   ],
+   "notes": []
+  },
+  "361Q24": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 36,
+    "depth": 24
+   },
+   "layers": [
+    "12t",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 14,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 3,
+   "ears": 0,
+   "runs": [
+    "36s"
+   ],
+   "blanks": [
+    "36:36:12b",
+    "36:36:12t"
+   ],
+   "notes": []
+  },
+  "362Q24": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 36,
+    "depth": 24
+   },
+   "layers": [
+    "12t",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 6,
+    "nuts": 6,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 16,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 6,
+   "ears": 0,
+   "runs": [
+    "36s",
+    "36s"
+   ],
+   "blanks": [
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12t",
+    "36:36:12t"
+   ],
+   "notes": []
+  },
+  "363Q24": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 36,
+    "depth": 24
+   },
+   "layers": [
+    "12t",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 12,
+    "nuts": 12,
+    "llb": 6,
+    "screws": 6,
+    "tapcons": 18,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 9,
+   "ears": 0,
+   "runs": [
+    "36s",
+    "36s",
+    "36s"
+   ],
+   "blanks": [
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t"
+   ],
+   "notes": []
+  },
+  "36SQ24": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 36,
+    "depth": 24
+   },
+   "layers": [
+    "12t",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 24,
+    "nuts": 24,
+    "llb": 8,
+    "screws": 8,
+    "tapcons": 8,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 12,
+   "ears": 0,
+   "runs": [
+    "36s",
+    "36s",
+    "36s",
+    "36s"
+   ],
+   "blanks": [
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t"
+   ],
+   "notes": []
+  },
+  "721Q24": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 72,
+    "depth": 24
+   },
+   "layers": [
+    "12t",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 5,
+    "screws": 5,
+    "tapcons": 17,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 12,
+   "ears": 2,
+   "runs": [
+    "72s"
+   ],
+   "blanks": [
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12t",
+    "36:36:12t"
+   ],
+   "notes": []
+  },
+  "722Q24": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 72,
+    "depth": 24
+   },
+   "layers": [
+    "12t",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 6,
+    "nuts": 6,
+    "llb": 10,
+    "screws": 10,
+    "tapcons": 22,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 24,
+   "ears": 4,
+   "runs": [
+    "72s",
+    "72s"
+   ],
+   "blanks": [
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t"
+   ],
+   "notes": []
+  },
+  "723Q24": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 72,
+    "depth": 24
+   },
+   "layers": [
+    "12t",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 12,
+    "nuts": 12,
+    "llb": 15,
+    "screws": 15,
+    "tapcons": 27,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 36,
+   "ears": 6,
+   "runs": [
+    "72s",
+    "72s",
+    "72s"
+   ],
+   "blanks": [
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t"
+   ],
+   "notes": []
+  },
+  "72SQ24": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 72,
+    "depth": 24
+   },
+   "layers": [
+    "12t",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 24,
+    "nuts": 24,
+    "llb": 20,
+    "screws": 20,
+    "tapcons": 20,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 48,
+   "ears": 8,
+   "runs": [
+    "72s",
+    "72s",
+    "72s",
+    "72s"
+   ],
+   "blanks": [
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t"
+   ],
+   "notes": []
+  },
+  "451Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 45,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 7,
+    "l4": 2,
+    "s14": 2
+   },
+   "inPlant": 3,
+   "ears": 0,
+   "runs": [
+    "45s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "addon:9:12t"
+   ],
+   "notes": [
+    "45\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "451Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 45,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 9,
+    "l4": 3,
+    "s14": 3
+   },
+   "inPlant": 7,
+   "ears": 0,
+   "runs": [
+    "45s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:4b",
+    "addon:9:12t",
+    "addon:9:4b"
+   ],
+   "notes": [
+    "45\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "452Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 45,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 3,
+    "nuts": 3,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 8,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 6,
+   "ears": 0,
+   "runs": [
+    "45s",
+    "45s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "addon:9:12t",
+    "addon:9:12t"
+   ],
+   "notes": [
+    "45\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "45\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "452Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 45,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 4,
+    "nuts": 4,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 10,
+    "l4": 6,
+    "s14": 6
+   },
+   "inPlant": 14,
+   "ears": 0,
+   "runs": [
+    "45s",
+    "45s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:4b",
+    "36:36:4b",
+    "addon:9:12t",
+    "addon:9:12t",
+    "addon:9:4b",
+    "addon:9:4b"
+   ],
+   "notes": [
+    "45\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "45\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "24SQ6": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 24,
+    "depth": 6
+   },
+   "layers": [
+    "6t"
+   ],
+   "hw": {
+    "bolts": 4,
+    "nuts": 4,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 4,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "24s",
+    "24s",
+    "24s",
+    "24s"
+   ],
+   "blanks": [
+    "cutdown:24:6t",
+    "cutdown:24:6t",
+    "cutdown:24:6t",
+    "cutdown:24:6t"
+   ],
+   "notes": []
+  },
+  "36SQ18": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 36,
+    "depth": 18
+   },
+   "layers": [
+    "12t",
+    "6b"
+   ],
+   "hw": {
+    "bolts": 16,
+    "nuts": 16,
+    "llb": 8,
+    "screws": 8,
+    "tapcons": 8,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 12,
+   "ears": 0,
+   "runs": [
+    "36s",
+    "36s",
+    "36s",
+    "36s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:6b",
+    "36:36:6b",
+    "36:36:6b",
+    "36:36:6b"
+   ],
+   "notes": []
+  },
+  "201Q8": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 20,
+    "depth": 8
+   },
+   "layers": [
+    "8t"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 1,
+    "screws": 1,
+    "tapcons": 5,
+    "l4": 2,
+    "s14": 2
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "20s"
+   ],
+   "blanks": [
+    "cutdown:20:8t"
+   ],
+   "notes": [
+    "20\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "202Q8": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 20,
+    "depth": 8
+   },
+   "layers": [
+    "8t"
+   ],
+   "hw": {
+    "bolts": 2,
+    "nuts": 2,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 6,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "20s",
+    "20s"
+   ],
+   "blanks": [
+    "cutdown:20:8t",
+    "cutdown:20:8t"
+   ],
+   "notes": [
+    "20\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "20\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "342Q8": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 34,
+    "depth": 8
+   },
+   "layers": [
+    "8t"
+   ],
+   "hw": {
+    "bolts": 2,
+    "nuts": 2,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 6,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "34s",
+    "34s"
+   ],
+   "blanks": [
+    "cutdown:34:8t",
+    "cutdown:34:8t"
+   ],
+   "notes": [
+    "34\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "34\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "382Q8": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 38,
+    "depth": 8
+   },
+   "layers": [
+    "8t"
+   ],
+   "hw": {
+    "bolts": 2,
+    "nuts": 2,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 8,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 4,
+   "ears": 0,
+   "runs": [
+    "38s",
+    "38s"
+   ],
+   "blanks": [
+    "36:36:8t",
+    "36:36:8t",
+    "addon:2:8t",
+    "addon:2:8t"
+   ],
+   "notes": [
+    "38\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "38\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "293Q8": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 29,
+    "depth": 8
+   },
+   "layers": [
+    "8t"
+   ],
+   "hw": {
+    "bolts": 4,
+    "nuts": 4,
+    "llb": 3,
+    "screws": 3,
+    "tapcons": 7,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "29s",
+    "29s",
+    "29s"
+   ],
+   "blanks": [
+    "cutdown:29:8t",
+    "cutdown:29:8t",
+    "cutdown:29:8t"
+   ],
+   "notes": [
+    "29\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "29\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "29\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "343Q8": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 34,
+    "depth": 8
+   },
+   "layers": [
+    "8t"
+   ],
+   "hw": {
+    "bolts": 4,
+    "nuts": 4,
+    "llb": 3,
+    "screws": 3,
+    "tapcons": 7,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "34s",
+    "34s",
+    "34s"
+   ],
+   "blanks": [
+    "cutdown:34:8t",
+    "cutdown:34:8t",
+    "cutdown:34:8t"
+   ],
+   "notes": [
+    "34\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "34\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "34\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "28SQ9": {
+   "error": "28\" isn't a multiple of 6\". A closed square bolts at every corner, so its sides must be whole cells."
+  },
+  "362Q8": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 36,
+    "depth": 8
+   },
+   "layers": [
+    "8t"
+   ],
+   "hw": {
+    "bolts": 2,
+    "nuts": 2,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 6,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "36s",
+    "36s"
+   ],
+   "blanks": [
+    "36:36:8t",
+    "36:36:8t"
+   ],
+   "notes": []
+  },
+  "30SQ10": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 30,
+    "depth": 10
+   },
+   "layers": [
+    "10t"
+   ],
+   "hw": {
+    "bolts": 8,
+    "nuts": 8,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 4,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "30s",
+    "30s",
+    "30s",
+    "30s"
+   ],
+   "blanks": [
+    "cutdown:30:10t",
+    "cutdown:30:10t",
+    "cutdown:30:10t",
+    "cutdown:30:10t"
+   ],
+   "notes": []
+  },
+  "42SQ16": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 42,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 16,
+    "nuts": 16,
+    "llb": 8,
+    "screws": 8,
+    "tapcons": 8,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 28,
+   "ears": 0,
+   "runs": [
+    "42s",
+    "42s",
+    "42s",
+    "42s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b",
+    "addon:6:12t",
+    "addon:6:12t",
+    "addon:6:12t",
+    "addon:6:12t",
+    "addon:6:4b",
+    "addon:6:4b",
+    "addon:6:4b",
+    "addon:6:4b"
+   ],
+   "notes": []
+  },
+  "42X16": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 42,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 10,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 7,
+   "ears": 0,
+   "runs": [
+    "42s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:4b",
+    "addon:6:12t",
+    "addon:6:4b"
+   ],
+   "notes": []
+  },
+  "421Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 42,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 10,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 7,
+   "ears": 0,
+   "runs": [
+    "42s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:4b",
+    "addon:6:12t",
+    "addon:6:4b"
+   ],
+   "notes": []
+  },
+  "422Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 42,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 4,
+    "nuts": 4,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 12,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 14,
+   "ears": 0,
+   "runs": [
+    "42s",
+    "42s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:4b",
+    "36:36:4b",
+    "addon:6:12t",
+    "addon:6:12t",
+    "addon:6:4b",
+    "addon:6:4b"
+   ],
+   "notes": []
+  },
+  "423Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "3Q",
+    "length": 42,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 8,
+    "nuts": 8,
+    "llb": 6,
+    "screws": 6,
+    "tapcons": 14,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 21,
+   "ears": 0,
+   "runs": [
+    "42s",
+    "42s",
+    "42s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:4b",
+    "36:36:4b",
+    "36:36:4b",
+    "addon:6:12t",
+    "addon:6:12t",
+    "addon:6:12t",
+    "addon:6:4b",
+    "addon:6:4b",
+    "addon:6:4b"
+   ],
+   "notes": []
+  },
+  "32R12": {
+   "part": {
+    "type": "round",
+    "kind": "full",
+    "depth": 12,
+    "ext": null
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 12,
+    "nuts": 12,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 4,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [],
+   "blanks": [
+    "32R:32:12t",
+    "32R:32:12t",
+    "32R:32:12t",
+    "32R:32:12t"
+   ],
+   "notes": []
+  },
+  "32HR12": {
+   "part": {
+    "type": "round",
+    "kind": "half",
+    "depth": 12,
+    "ext": null
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 3,
+    "nuts": 3,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 8,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [],
+   "blanks": [
+    "32R:32:12t",
+    "32R:32:12t"
+   ],
+   "notes": []
+  },
+  "323Q12": {
+   "part": {
+    "type": "round",
+    "kind": "three",
+    "depth": 12,
+    "ext": null
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 6,
+    "nuts": 6,
+    "llb": 3,
+    "screws": 3,
+    "tapcons": 9,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [],
+   "blanks": [
+    "32R:32:12t",
+    "32R:32:12t",
+    "32R:32:12t"
+   ],
+   "notes": []
+  },
+  "321Q12": {
+   "part": {
+    "type": "round",
+    "kind": "quarter",
+    "depth": 12,
+    "ext": null
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 1,
+    "screws": 1,
+    "tapcons": 7,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [],
+   "blanks": [
+    "32R:32:12t"
+   ],
+   "notes": []
+  },
+  "32HR1812": {
+   "part": {
+    "type": "round",
+    "kind": "half",
+    "depth": 12,
+    "ext": 18
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 9,
+    "nuts": 9,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 10,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "18e",
+    "18e"
+   ],
+   "blanks": [
+    "32R:32:12t",
+    "32R:32:12t",
+    "cutdown:18:12t",
+    "cutdown:18:12t"
+   ],
+   "notes": []
+  },
+  "32RT3612": {
+   "part": {
+    "type": "round",
+    "kind": "race",
+    "depth": 12,
+    "ext": 36
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 18,
+    "nuts": 18,
+    "llb": 6,
+    "screws": 6,
+    "tapcons": 6,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 2,
+   "runs": [
+    "36s",
+    "36s"
+   ],
+   "blanks": [
+    "32R:32:12t",
+    "32R:32:12t",
+    "32R:32:12t",
+    "32R:32:12t",
+    "36:36:12t",
+    "36:36:12t"
+   ],
+   "notes": []
+  },
+  "32RT2212": {
+   "part": {
+    "type": "round",
+    "kind": "race",
+    "depth": 12,
+    "ext": 22
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 18,
+    "nuts": 18,
+    "llb": 6,
+    "screws": 6,
+    "tapcons": 6,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "22s",
+    "22s"
+   ],
+   "blanks": [
+    "32R:32:12t",
+    "32R:32:12t",
+    "32R:32:12t",
+    "32R:32:12t",
+    "cutdown:22:12t",
+    "cutdown:22:12t"
+   ],
+   "notes": [
+    "22\" straights between round pieces: cut to exact length.",
+    "22\" straights between round pieces: cut to exact length."
+   ]
+  },
+  "323Q1816": {
+   "part": {
+    "type": "round",
+    "kind": "three",
+    "depth": 16,
+    "ext": 18
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 20,
+    "nuts": 20,
+    "llb": 12,
+    "screws": 12,
+    "tapcons": 20,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 15,
+   "ears": 0,
+   "runs": [
+    "18s",
+    "18s",
+    "18e"
+   ],
+   "blanks": [
+    "32R:32:12t",
+    "32R:32:12t",
+    "32R:32:12t",
+    "32R:32:4b",
+    "32R:32:4b",
+    "32R:32:4b",
+    "cutdown:18:12t",
+    "cutdown:18:12t",
+    "cutdown:18:12t",
+    "cutdown:18:4b",
+    "cutdown:18:4b",
+    "cutdown:18:4b"
+   ],
+   "notes": []
+  },
+  "321/4R12": {
+   "part": {
+    "type": "round",
+    "kind": "quarter",
+    "depth": 12,
+    "ext": null
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 1,
+    "screws": 1,
+    "tapcons": 7,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [],
+   "blanks": [
+    "32R:32:12t"
+   ],
+   "notes": []
+  },
+  "36SQ30": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 36,
+    "depth": 30
+   },
+   "layers": [
+    "12t",
+    "8m",
+    "10b"
+   ],
+   "hw": {
+    "bolts": 28,
+    "nuts": 28,
+    "llb": 8,
+    "screws": 8,
+    "tapcons": 8,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 24,
+   "ears": 0,
+   "runs": [
+    "36s",
+    "36s",
+    "36s",
+    "36s"
+   ],
+   "blanks": [
+    "36:36:10b",
+    "36:36:10b",
+    "36:36:10b",
+    "36:36:10b",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:8m",
+    "36:36:8m",
+    "36:36:8m",
+    "36:36:8m"
+   ],
+   "notes": []
+  },
+  "36SQ28": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 36,
+    "depth": 28
+   },
+   "layers": [
+    "12t",
+    "4m",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 28,
+    "nuts": 28,
+    "llb": 8,
+    "screws": 8,
+    "tapcons": 8,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 24,
+   "ears": 0,
+   "runs": [
+    "36s",
+    "36s",
+    "36s",
+    "36s"
+   ],
+   "blanks": [
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:4m",
+    "36:36:4m",
+    "36:36:4m",
+    "36:36:4m"
+   ],
+   "notes": []
+  },
+  "36SQ20": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 36,
+    "depth": 20
+   },
+   "layers": [
+    "12t",
+    "8b"
+   ],
+   "hw": {
+    "bolts": 20,
+    "nuts": 20,
+    "llb": 8,
+    "screws": 8,
+    "tapcons": 8,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 12,
+   "ears": 0,
+   "runs": [
+    "36s",
+    "36s",
+    "36s",
+    "36s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:8b",
+    "36:36:8b",
+    "36:36:8b",
+    "36:36:8b"
+   ],
+   "notes": []
+  },
+  "36SQ36": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 36,
+    "depth": 36
+   },
+   "layers": [
+    "12t",
+    "8m",
+    "4m",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 36,
+    "nuts": 36,
+    "llb": 8,
+    "screws": 8,
+    "tapcons": 8,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 36,
+   "ears": 0,
+   "runs": [
+    "36s",
+    "36s",
+    "36s",
+    "36s"
+   ],
+   "blanks": [
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12b",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:4m",
+    "36:36:4m",
+    "36:36:4m",
+    "36:36:4m",
+    "36:36:8m",
+    "36:36:8m",
+    "36:36:8m",
+    "36:36:8m"
+   ],
+   "notes": []
+  },
+  "661Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 66,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 10,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 3,
+   "ears": 0,
+   "runs": [
+    "66s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "addon:30:12t"
+   ],
+   "notes": []
+  },
+  "841Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 84,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 6,
+    "screws": 6,
+    "tapcons": 12,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 6,
+   "ears": 1,
+   "runs": [
+    "84s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "addon:12:12t"
+   ],
+   "notes": []
+  },
+  "482Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 48,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 4,
+    "nuts": 4,
+    "llb": 6,
+    "screws": 6,
+    "tapcons": 14,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 16,
+   "ears": 0,
+   "runs": [
+    "48s",
+    "48s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:4b",
+    "36:36:4b",
+    "addon:12:12t",
+    "addon:12:12t",
+    "addon:12:4b",
+    "addon:12:4b"
+   ],
+   "notes": []
+  },
+  "4'-8\"2Q6": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 56,
+    "depth": 6
+   },
+   "layers": [
+    "6t"
+   ],
+   "hw": {
+    "bolts": 1,
+    "nuts": 1,
+    "llb": 6,
+    "screws": 6,
+    "tapcons": 10,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 2,
+   "ears": 0,
+   "runs": [
+    "56s",
+    "56s"
+   ],
+   "blanks": [
+    "36:36:6t",
+    "36:36:6t",
+    "addon:20:6t",
+    "addon:20:6t"
+   ],
+   "notes": [
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "56\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "2'-8\"2Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "2Q",
+    "length": 32,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 3,
+    "nuts": 3,
+    "llb": 2,
+    "screws": 2,
+    "tapcons": 6,
+    "l4": 4,
+    "s14": 4
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "32s",
+    "32s"
+   ],
+   "blanks": [
+    "cutdown:32:12t",
+    "cutdown:32:12t"
+   ],
+   "notes": [
+    "32\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall.",
+    "32\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "5'-3.5\"1Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 64,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 11,
+    "l4": 3,
+    "s14": 3
+   },
+   "inPlant": 9,
+   "ears": 0,
+   "runs": [
+    "64s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:4b",
+    "addon:28:12t",
+    "addon:28:4b"
+   ],
+   "notes": [
+    "64\" sides are a custom length: cut the wall end to exact length and use 4L brackets at the wall."
+   ]
+  },
+  "32HR612": {
+   "part": {
+    "type": "round",
+    "kind": "half",
+    "depth": 12,
+    "ext": 6
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 9,
+    "nuts": 9,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 10,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "6e",
+    "6e"
+   ],
+   "blanks": [
+    "32R:32:12t",
+    "32R:32:12t",
+    "cutdown:6:12t",
+    "cutdown:6:12t"
+   ],
+   "notes": []
+  },
+  "32HR1216": {
+   "part": {
+    "type": "round",
+    "kind": "half",
+    "depth": 16,
+    "ext": 12
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 12,
+    "nuts": 12,
+    "llb": 8,
+    "screws": 8,
+    "tapcons": 16,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 10,
+   "ears": 0,
+   "runs": [
+    "12e",
+    "12e"
+   ],
+   "blanks": [
+    "32R:32:12t",
+    "32R:32:12t",
+    "32R:32:4b",
+    "32R:32:4b",
+    "cutdown:12:12t",
+    "cutdown:12:12t",
+    "cutdown:12:4b",
+    "cutdown:12:4b"
+   ],
+   "notes": []
+  },
+  "901Q16": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 90,
+    "depth": 16
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 6,
+    "screws": 6,
+    "tapcons": 14,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 15,
+   "ears": 2,
+   "runs": [
+    "90s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:4b",
+    "36:36:4b",
+    "addon:18:12t",
+    "addon:18:4b"
+   ],
+   "notes": []
+  },
+  "541Q12": {
+   "part": {
+    "type": "straight",
+    "shape": "1Q",
+    "length": 54,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 3,
+    "screws": 3,
+    "tapcons": 9,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 3,
+   "ears": 0,
+   "runs": [
+    "54s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "addon:18:12t"
+   ],
+   "notes": []
+  },
+  "48SQ18": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 48,
+    "depth": 18
+   },
+   "layers": [
+    "12t",
+    "6b"
+   ],
+   "hw": {
+    "bolts": 16,
+    "nuts": 16,
+    "llb": 12,
+    "screws": 12,
+    "tapcons": 12,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 32,
+   "ears": 0,
+   "runs": [
+    "48s",
+    "48s",
+    "48s",
+    "48s"
+   ],
+   "blanks": [
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:12t",
+    "36:36:6b",
+    "36:36:6b",
+    "36:36:6b",
+    "36:36:6b",
+    "addon:12:12t",
+    "addon:12:12t",
+    "addon:12:12t",
+    "addon:12:12t",
+    "addon:12:6b",
+    "addon:12:6b",
+    "addon:12:6b",
+    "addon:12:6b"
+   ],
+   "notes": []
+  },
+  "30SQ12": {
+   "part": {
+    "type": "straight",
+    "shape": "SQ",
+    "length": 30,
+    "depth": 12
+   },
+   "layers": [
+    "12t"
+   ],
+   "hw": {
+    "bolts": 12,
+    "nuts": 12,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 4,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 0,
+   "ears": 0,
+   "runs": [
+    "30s",
+    "30s",
+    "30s",
+    "30s"
+   ],
+   "blanks": [
+    "cutdown:30:12t",
+    "cutdown:30:12t",
+    "cutdown:30:12t",
+    "cutdown:30:12t"
+   ],
+   "notes": []
+  },
+  "32RT1224": {
+   "part": {
+    "type": "round",
+    "kind": "race",
+    "depth": 24,
+    "ext": 12
+   },
+   "layers": [
+    "12t",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 36,
+    "nuts": 36,
+    "llb": 12,
+    "screws": 12,
+    "tapcons": 12,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 18,
+   "ears": 0,
+   "runs": [
+    "12s",
+    "12s"
+   ],
+   "blanks": [
+    "32R:32:12b",
+    "32R:32:12b",
+    "32R:32:12b",
+    "32R:32:12b",
+    "32R:32:12t",
+    "32R:32:12t",
+    "32R:32:12t",
+    "32R:32:12t",
+    "cutdown:12:12b",
+    "cutdown:12:12b",
+    "cutdown:12:12t",
+    "cutdown:12:12t"
+   ],
+   "notes": []
+  },
+  "32HR24": {
+   "part": {
+    "type": "round",
+    "kind": "half",
+    "depth": 24,
+    "ext": null
+   },
+   "layers": [
+    "12t",
+    "12b"
+   ],
+   "hw": {
+    "bolts": 6,
+    "nuts": 6,
+    "llb": 4,
+    "screws": 4,
+    "tapcons": 16,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 8,
+   "ears": 0,
+   "runs": [],
+   "blanks": [
+    "32R:32:12b",
+    "32R:32:12b",
+    "32R:32:12t",
+    "32R:32:12t"
+   ],
+   "notes": []
+  },
+  "321Q616": {
+   "part": {
+    "type": "round",
+    "kind": "quarter",
+    "depth": 16,
+    "ext": 6
+   },
+   "layers": [
+    "12t",
+    "4b"
+   ],
+   "hw": {
+    "bolts": 8,
+    "nuts": 8,
+    "llb": 6,
+    "screws": 6,
+    "tapcons": 14,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 4,
+   "ears": 0,
+   "runs": [
+    "6e",
+    "6e"
+   ],
+   "blanks": [
+    "32R:32:12t",
+    "32R:32:4b",
+    "cutdown:6:12t",
+    "cutdown:6:12t",
+    "cutdown:6:4b",
+    "cutdown:6:4b"
+   ],
+   "notes": []
+  }
+ },
+ "orders": {
+  "example": {
+   "stock": {
+    "36X12": 143,
+    "32R12": 12
+   },
+   "addon": {
+    "6": {
+     "pieces": 80,
+     "cells": 1,
+     "per": 3,
+     "panels": 27
+    }
+   },
+   "cutdown": {
+    "18": 4
+   },
+   "rips": {
+    "bot4|36": {
+     "qty": 40,
+     "leftover": 8,
+     "keepLeftover": true
+    },
+    "bot4|6": {
+     "qty": 40,
+     "leftover": 8,
+     "keepLeftover": true
+    },
+    "mid8|36": {
+     "qty": 8,
+     "leftover": 4,
+     "keepLeftover": false
+    },
+    "bot10|36": {
+     "qty": 8,
+     "leftover": 2,
+     "keepLeftover": false
+    }
+   },
+   "ears": 0,
+   "saved": {
+    "36X8": 40,
+    "32X8": 0
+   },
+   "leftoverCells": 0,
+   "hw": {
+    "bolts": 270,
+    "nuts": 270,
+    "llb": 120,
+    "screws": 120,
+    "tapcons": 156,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 328,
+   "shelfTop8": 0,
+   "errors": 0
+  },
+  "lengthTable": {
+   "stock": {
+    "36X12": 11,
+    "32R12": 0
+   },
+   "addon": {
+    "6": {
+     "pieces": 1,
+     "cells": 1,
+     "per": 3,
+     "panels": 1
+    },
+    "12": {
+     "pieces": 2,
+     "cells": 2,
+     "per": 2,
+     "panels": 1
+    }
+   },
+   "cutdown": {
+    "24": 1,
+    "30": 1
+   },
+   "rips": {},
+   "ears": 2,
+   "saved": {
+    "36X8": 0,
+    "32X8": 0
+   },
+   "leftoverCells": 0,
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 19,
+    "screws": 19,
+    "tapcons": 61,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 15,
+   "shelfTop8": 0,
+   "errors": 0
+  },
+  "depthTable": {
+   "stock": {
+    "36X12": 18,
+    "32R12": 0
+   },
+   "addon": {},
+   "cutdown": {},
+   "rips": {
+    "top8|36": {
+     "qty": 1,
+     "leftover": 4,
+     "keepLeftover": false
+    },
+    "bot4|36": {
+     "qty": 1,
+     "leftover": 8,
+     "keepLeftover": true
+    },
+    "bot8|36": {
+     "qty": 1,
+     "leftover": 4,
+     "keepLeftover": false
+    },
+    "flip12|36": {
+     "qty": 3,
+     "leftover": 0,
+     "keepLeftover": false
+    },
+    "mid4|36": {
+     "qty": 2,
+     "leftover": 8,
+     "keepLeftover": true
+    },
+    "mid8|36": {
+     "qty": 2,
+     "leftover": 4,
+     "keepLeftover": false
+    },
+    "bot10|36": {
+     "qty": 1,
+     "leftover": 2,
+     "keepLeftover": false
+    }
+   },
+   "ears": 0,
+   "saved": {
+    "36X8": 3,
+    "32X8": 0
+   },
+   "leftoverCells": 0,
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 14,
+    "screws": 14,
+    "tapcons": 100,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 30,
+   "shelfTop8": 1,
+   "errors": 0
+  },
+  "addons": {
+   "stock": {
+    "36X12": 36,
+    "32R12": 0
+   },
+   "addon": {
+    "6": {
+     "pieces": 7,
+     "cells": 1,
+     "per": 3,
+     "panels": 3
+    },
+    "12": {
+     "pieces": 5,
+     "cells": 2,
+     "per": 2,
+     "panels": 3
+    },
+    "18": {
+     "pieces": 4,
+     "cells": 3,
+     "per": 1,
+     "panels": 4
+    },
+    "24": {
+     "pieces": 3,
+     "cells": 4,
+     "per": 1,
+     "panels": 3
+    },
+    "30": {
+     "pieces": 2,
+     "cells": 5,
+     "per": 1,
+     "panels": 2
+    }
+   },
+   "cutdown": {},
+   "rips": {},
+   "ears": 0,
+   "saved": {
+    "36X8": 0,
+    "32X8": 0
+   },
+   "leftoverCells": 4,
+   "hw": {
+    "bolts": 0,
+    "nuts": 0,
+    "llb": 61,
+    "screws": 61,
+    "tapcons": 187,
+    "l4": 0,
+    "s14": 0
+   },
+   "inPlant": 63,
+   "shelfTop8": 0,
+   "errors": 0
+  }
+ }
+}

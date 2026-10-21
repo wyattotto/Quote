@@ -1,0 +1,713 @@
+[
+ {
+  "part": "241Q8",
+  "section": "Standard",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 1,
+  "screws": 1,
+  "tapcons": 5
+ },
+ {
+  "part": "242Q8",
+  "section": "Standard",
+  "bolts": 2,
+  "nuts": 2,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 6
+ },
+ {
+  "part": "243Q8",
+  "section": "Standard",
+  "bolts": 4,
+  "nuts": 4,
+  "llb": 3,
+  "screws": 3,
+  "tapcons": 7
+ },
+ {
+  "part": "24SQ8",
+  "section": "Standard",
+  "bolts": 8,
+  "nuts": 8,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 4
+ },
+ {
+  "part": "441Q8",
+  "section": "Standard",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 6
+ },
+ {
+  "part": "442Q8",
+  "section": "Standard",
+  "bolts": 2,
+  "nuts": 2,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 8
+ },
+ {
+  "part": "443Q8",
+  "section": "Standard",
+  "bolts": 4,
+  "nuts": 4,
+  "llb": 6,
+  "screws": 6,
+  "tapcons": 10
+ },
+ {
+  "part": "44SQ8",
+  "section": "Standard",
+  "bolts": 8,
+  "nuts": 8,
+  "llb": 8,
+  "screws": 8,
+  "tapcons": 8
+ },
+ {
+  "part": "241Q12",
+  "section": "Standard",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 1,
+  "screws": 1,
+  "tapcons": 7
+ },
+ {
+  "part": "242Q12",
+  "section": "Standard",
+  "bolts": 3,
+  "nuts": 3,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 8
+ },
+ {
+  "part": "243Q12",
+  "section": "Standard",
+  "bolts": 6,
+  "nuts": 6,
+  "llb": 3,
+  "screws": 3,
+  "tapcons": 9
+ },
+ {
+  "part": "24SQ12",
+  "section": "Standard",
+  "bolts": 12,
+  "nuts": 12,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 4
+ },
+ {
+  "part": "441Q12",
+  "section": "Standard",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 8
+ },
+ {
+  "part": "442Q12",
+  "section": "Standard",
+  "bolts": 3,
+  "nuts": 3,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 10
+ },
+ {
+  "part": "443Q12",
+  "section": "Standard",
+  "bolts": 6,
+  "nuts": 6,
+  "llb": 6,
+  "screws": 6,
+  "tapcons": 12
+ },
+ {
+  "part": "44SQ12",
+  "section": "Standard",
+  "bolts": 12,
+  "nuts": 12,
+  "llb": 8,
+  "screws": 8,
+  "tapcons": 8
+ },
+ {
+  "part": "281Q12",
+  "section": "Standard",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 1,
+  "screws": 1,
+  "tapcons": 7
+ },
+ {
+  "part": "282Q12",
+  "section": "Standard",
+  "bolts": 3,
+  "nuts": 3,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 8
+ },
+ {
+  "part": "283Q12",
+  "section": "Standard",
+  "bolts": 6,
+  "nuts": 6,
+  "llb": 3,
+  "screws": 3,
+  "tapcons": 9
+ },
+ {
+  "part": "28SQ12",
+  "section": "Standard",
+  "bolts": 12,
+  "nuts": 12,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 4
+ },
+ {
+  "part": "561Q12",
+  "section": "Standard",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 8
+ },
+ {
+  "part": "562Q12",
+  "section": "Standard",
+  "bolts": 3,
+  "nuts": 3,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 10
+ },
+ {
+  "part": "563Q12",
+  "section": "Standard",
+  "bolts": 6,
+  "nuts": 6,
+  "llb": 6,
+  "screws": 6,
+  "tapcons": 12
+ },
+ {
+  "part": "56SQ12",
+  "section": "Standard",
+  "bolts": 12,
+  "nuts": 12,
+  "llb": 8,
+  "screws": 8,
+  "tapcons": 8
+ },
+ {
+  "part": "281Q16",
+  "section": "Standard",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 10
+ },
+ {
+  "part": "282Q16",
+  "section": "Standard",
+  "bolts": 5,
+  "nuts": 5,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 12
+ },
+ {
+  "part": "283Q16",
+  "section": "Standard",
+  "bolts": 10,
+  "nuts": 10,
+  "llb": 6,
+  "screws": 6,
+  "tapcons": 14
+ },
+ {
+  "part": "28SQ16",
+  "section": "Standard",
+  "bolts": 20,
+  "nuts": 20,
+  "llb": 8,
+  "screws": 8,
+  "tapcons": 8
+ },
+ {
+  "part": "561Q16",
+  "section": "Standard",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 10
+ },
+ {
+  "part": "562Q16",
+  "section": "Standard",
+  "bolts": 5,
+  "nuts": 5,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 12
+ },
+ {
+  "part": "563Q16",
+  "section": "Standard",
+  "bolts": 10,
+  "nuts": 10,
+  "llb": 6,
+  "screws": 6,
+  "tapcons": 14
+ },
+ {
+  "part": "56SQ16",
+  "section": "Standard",
+  "bolts": 20,
+  "nuts": 20,
+  "llb": 8,
+  "screws": 8,
+  "tapcons": 8
+ },
+ {
+  "part": "281Q24",
+  "section": "Standard",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 10
+ },
+ {
+  "part": "282Q24",
+  "section": "Standard",
+  "bolts": 7,
+  "nuts": 7,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 12
+ },
+ {
+  "part": "283Q24",
+  "section": "Standard",
+  "bolts": 14,
+  "nuts": 14,
+  "llb": 6,
+  "screws": 6,
+  "tapcons": 14
+ },
+ {
+  "part": "28SQ24",
+  "section": "Standard",
+  "bolts": 28,
+  "nuts": 28,
+  "llb": 8,
+  "screws": 8,
+  "tapcons": 8
+ },
+ {
+  "part": "561Q24",
+  "section": "Standard",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 16
+ },
+ {
+  "part": "562Q24",
+  "section": "Standard",
+  "bolts": 7,
+  "nuts": 7,
+  "llb": 8,
+  "screws": 8,
+  "tapcons": 20
+ },
+ {
+  "part": "563Q24",
+  "section": "Standard",
+  "bolts": 14,
+  "nuts": 14,
+  "llb": 12,
+  "screws": 12,
+  "tapcons": 24
+ },
+ {
+  "part": "56SQ24",
+  "section": "Standard",
+  "bolts": 28,
+  "nuts": 28,
+  "llb": 16,
+  "screws": 16,
+  "tapcons": 16
+ },
+ {
+  "part": "361Q12",
+  "section": "Standard",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 1,
+  "screws": 1,
+  "tapcons": 7
+ },
+ {
+  "part": "362Q12",
+  "section": "Standard",
+  "bolts": 3,
+  "nuts": 3,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 8
+ },
+ {
+  "part": "363Q12",
+  "section": "Standard",
+  "bolts": 6,
+  "nuts": 6,
+  "llb": 3,
+  "screws": 3,
+  "tapcons": 9
+ },
+ {
+  "part": "36SQ12",
+  "section": "Standard",
+  "bolts": 12,
+  "nuts": 12,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 4
+ },
+ {
+  "part": "721Q12",
+  "section": "Standard",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 8
+ },
+ {
+  "part": "722Q12",
+  "section": "Standard",
+  "bolts": 3,
+  "nuts": 3,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 10
+ },
+ {
+  "part": "723Q12",
+  "section": "Standard",
+  "bolts": 6,
+  "nuts": 6,
+  "llb": 6,
+  "screws": 6,
+  "tapcons": 12
+ },
+ {
+  "part": "72SQ12",
+  "section": "Standard",
+  "bolts": 12,
+  "nuts": 12,
+  "llb": 8,
+  "screws": 8,
+  "tapcons": 8
+ },
+ {
+  "part": "361Q16",
+  "section": "Standard",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 10
+ },
+ {
+  "part": "362Q16",
+  "section": "Standard",
+  "bolts": 5,
+  "nuts": 5,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 12
+ },
+ {
+  "part": "363Q16",
+  "section": "Standard",
+  "bolts": 10,
+  "nuts": 10,
+  "llb": 6,
+  "screws": 6,
+  "tapcons": 14
+ },
+ {
+  "part": "36SQ16",
+  "section": "Standard",
+  "bolts": 20,
+  "nuts": 20,
+  "llb": 8,
+  "screws": 8,
+  "tapcons": 8
+ },
+ {
+  "part": "721Q16",
+  "section": "Standard",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 12
+ },
+ {
+  "part": "722Q16",
+  "section": "Standard",
+  "bolts": 5,
+  "nuts": 5,
+  "llb": 8,
+  "screws": 8,
+  "tapcons": 16
+ },
+ {
+  "part": "723Q16",
+  "section": "Standard",
+  "bolts": 10,
+  "nuts": 10,
+  "llb": 12,
+  "screws": 12,
+  "tapcons": 24
+ },
+ {
+  "part": "72SQ16",
+  "section": "Standard",
+  "bolts": 20,
+  "nuts": 20,
+  "llb": 16,
+  "screws": 16,
+  "tapcons": 16
+ },
+ {
+  "part": "361Q24",
+  "section": "Standard",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 14
+ },
+ {
+  "part": "362Q24",
+  "section": "Standard",
+  "bolts": 7,
+  "nuts": 7,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 16
+ },
+ {
+  "part": "363Q24",
+  "section": "Standard",
+  "bolts": 14,
+  "nuts": 14,
+  "llb": 6,
+  "screws": 6,
+  "tapcons": 18
+ },
+ {
+  "part": "36SQ24",
+  "section": "Standard",
+  "bolts": 28,
+  "nuts": 28,
+  "llb": 8,
+  "screws": 8,
+  "tapcons": 8
+ },
+ {
+  "part": "721Q24",
+  "section": "Standard",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 16
+ },
+ {
+  "part": "722Q24",
+  "section": "Standard",
+  "bolts": 7,
+  "nuts": 7,
+  "llb": 8,
+  "screws": 8,
+  "tapcons": 20
+ },
+ {
+  "part": "723Q24",
+  "section": "Standard",
+  "bolts": 14,
+  "nuts": 14,
+  "llb": 12,
+  "screws": 12,
+  "tapcons": 24
+ },
+ {
+  "part": "72SQ24",
+  "section": "Standard",
+  "bolts": 28,
+  "nuts": 28,
+  "llb": 16,
+  "screws": 16,
+  "tapcons": 16
+ },
+ {
+  "part": "451Q12",
+  "section": "Costco",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 8
+ },
+ {
+  "part": "451Q16",
+  "section": "Costco",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 10
+ },
+ {
+  "part": "452Q12",
+  "section": "Costco",
+  "bolts": 3,
+  "nuts": 3,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 10
+ },
+ {
+  "part": "452Q16",
+  "section": "Costco",
+  "bolts": 5,
+  "nuts": 5,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 12
+ },
+ {
+  "part": "24SQ6",
+  "section": "Wegmans",
+  "bolts": 8,
+  "nuts": 8,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 4
+ },
+ {
+  "part": "36SQ18",
+  "section": "Wegmans",
+  "bolts": 24,
+  "nuts": 24,
+  "llb": 8,
+  "screws": 8,
+  "tapcons": 8
+ },
+ {
+  "part": "201Q8",
+  "section": "Wegmans",
+  "bolts": 0,
+  "nuts": 0,
+  "llb": 1,
+  "screws": 1,
+  "tapcons": 5
+ },
+ {
+  "part": "202Q8",
+  "section": "Wegmans",
+  "bolts": 2,
+  "nuts": 2,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 6
+ },
+ {
+  "part": "342Q8",
+  "section": "Wegmans",
+  "bolts": 2,
+  "nuts": 2,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 6
+ },
+ {
+  "part": "382Q8",
+  "section": "Wegmans",
+  "bolts": 2,
+  "nuts": 2,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 8
+ },
+ {
+  "part": "293Q8",
+  "section": "Wegmans",
+  "bolts": 4,
+  "nuts": 4,
+  "llb": 3,
+  "screws": 3,
+  "tapcons": 7
+ },
+ {
+  "part": "343Q8",
+  "section": "Wegmans",
+  "bolts": 4,
+  "nuts": 4,
+  "llb": 3,
+  "screws": 3,
+  "tapcons": 7
+ },
+ {
+  "part": "28SQ9",
+  "section": "Misc",
+  "bolts": 8,
+  "nuts": 8,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 4
+ },
+ {
+  "part": "362Q8",
+  "section": "Misc",
+  "bolts": 2,
+  "nuts": 2,
+  "llb": 2,
+  "screws": 2,
+  "tapcons": 6
+ },
+ {
+  "part": "30SQ10",
+  "section": "Misc",
+  "bolts": 12,
+  "nuts": 12,
+  "llb": 4,
+  "screws": 4,
+  "tapcons": 4
+ }
+]
